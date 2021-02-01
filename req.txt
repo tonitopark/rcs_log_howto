@@ -1,4 +1,2 @@
-requests==2.22.0
-rich==2.2.3
-redis==3.5.3
-beautifulSoup4==4.9.3
+opencensus-ext-azure==1.0.7
+opencensus-ext-logging==0.1.0
